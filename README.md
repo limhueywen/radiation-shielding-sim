@@ -542,39 +542,6 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📚 References
-
-### Physics
-
-1. **Klein-Nishina Formula**: Klein, O. and Nishina, Y. (1929). "Über die Streuung von Strahlung durch freie Elektronen nach der neuen relativistischen Quantendynamik von Dirac"
-2. **NIST XCOM Database**: Berger, M.J., et al. "XCOM: Photon Cross Section Database" - https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html
-3. **Monte Carlo Methods**: Bielajew, A.F. "Fundamentals of the Monte Carlo method for neutral and charged particle transport" (2001)
-
-### Shielding
-
-4. **Radiation Shielding**: Shultis, J.K. and Faw, R.E. "Radiation Shielding" (2000)
-5. **Attix, F.H.** "Introduction to Radiological Physics and Radiation Dosimetry" (1986)
-
-### Monte Carlo
-
-6. **Kalos, M.H. and Whitlock, P.A.** "Monte Carlo Methods" (2008)
-7. **James, F.** "Monte Carlo theory and practice" - Rep. Prog. Phys. 43 (1980)
-
----
-
-## 📖 Documentation
-
-For detailed documentation, see the [Wiki](../../wiki):
-
-- [Installation Guide](../../wiki/Installation-Guide)
-- [Physics Model Details](../../wiki/Physics-Model)
-- [Using NIST Cross-Section Data](../../wiki/Using-NIST-Data)
-- [API Reference](../../wiki/API-Reference)
-- [Troubleshooting](../../wiki/Troubleshooting)
-- [Examples & Tutorials](../../wiki/Examples)
-
----
-
 ## ⚠️ Known Limitations
 
 - **Simplified cross-sections**: Uses power-law approximations instead of NIST data
