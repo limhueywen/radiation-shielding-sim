@@ -1,0 +1,30 @@
+{
+  "simulation": {
+    "default_n_photons": 5000,
+    "max_photons": 100000,
+    "default_seed": 42,
+    "max_interactions_per_photon": 1000,
+    "energy_cutoff_keV": 10.0
+  },
+  "materials": {
+    "lead": {
+      "density_g_cm3": 11.34,
+      "description": "Pure lead"
+    },
+    "concrete": {
+      "density_g_cm3": 2.3,
+      "description": "Standard concrete"
+    }
+  },
+  "sources": {
+    "Cs-137": 662,
+    "Co-60": 1250,
+    "Ir-192": 380,
+    "Custom": 500
+  },
+  "analysis": {
+    "depth_bins": 50,
+    "min_transmission_fit": 0.1,
+    "max_transmission_fit": 0.9
+  }
+}
