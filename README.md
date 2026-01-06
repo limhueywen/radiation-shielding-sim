@@ -280,7 +280,7 @@ Current implementation uses **simplified power-law approximations**:
 - **Lead**: μ_pe ∝ E⁻³, μ_c ≈ constant
 - **Concrete**: Similar scaling with lower density
 
-**For production use**: Replace with NIST XCOM database values (see [Wiki: Advanced Topics](../../wiki/Advanced-Topics)).
+**For production use**: Replace with NIST XCOM database values 
 
 ---
 
@@ -435,8 +435,6 @@ class CrossSections:
         )
         # ... similar for mu_compton
 ```
-
-See [Wiki: Using NIST Data](../../wiki/Using-NIST-Data) for full tutorial.
 
 ### Parallel Processing
 
