@@ -47,8 +47,6 @@ A physics-based Monte Carlo simulator for gamma photon transport through shieldi
 - [Examples](#-examples)
 - [Advanced Usage](#-advanced-usage)
 - [Contributing](#-contributing)
-- [References](#-references)
-- [License](#-license)
 
 ---
 
